@@ -276,3 +276,5 @@ mente_segura/media/
 .env
 .envs/*
 !.envs/.local/
+venv/
+

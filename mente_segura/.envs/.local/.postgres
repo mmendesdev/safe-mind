@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=mente_segura
+POSTGRES_USER=wIfhRvXdXUlkUmnnMjbvAnZdFHzwyAdj
+POSTGRES_PASSWORD=vyyHn2mQPOmAiwe7fl5Nf8r89mj1C3FFnNF3taozwWDQuj19vHM7lqlPVTKXFWT8
